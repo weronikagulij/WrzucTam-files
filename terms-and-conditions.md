@@ -1,34 +1,36 @@
-**Terms & Conditions**
+**Zasady i Warunki**
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Weronika Jankowska.
+Po zainstalowaniu aplikacji użytkownik automatycznie zgadza się na wszystkie warunki - przed pobraniem aplikacji użytkownik powinien przeczytać ten dokument. Użytkownikowi zabrania się kopiowania lub modyfikowania aplikacji i jej znaków towarowych, bądź jej części w jakikolwiek sposób. Użytkownik nie może próbować wyodrębnić kodu źródłowego aplikacji, tłumaczyć jej na inne języku, czy tworzyć jej inne wersje. Aplikacja, jej znaki towarowe, prawa autorskie i inne własności intelektualnej związane z “WrzućTam” należą do Weroniki Jankowskiej.
 
-Weronika Jankowska is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+Twórcy zapewniają, że aplikacja jest użyteczna i działa efektywnie, dlatego zastrzegają sobie prawo do wprowadzania zmian w aplikacji lub wprowadzenia pobierania opłat za korzystanie z niej, w dowolnym momencie bez podania powodu. W przypadku wprowadzenia pobierania opłat, użytkownik zostanie wyraźnie poinformowany co podlega opłacie.
 
-The WrzućTam app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the WrzućTam app won’t work properly or at all.
+Aplikacja “WrzućTam” pobiera i przechowuje dane osobowe, udostępniane przez użytkownika, w celu świadczenia usługi. Po stronie użytkownika jest zabezpieczenie urządzenia i udzielenie dostępów do aplikacji. Zaleca się, aby użytkownik nie ingerował w system operacyjny urządzenia, oraz nie zmieniał ograniczeń przez niego nałożonych. Urządzenie użytkownika może być podatne na działanie złośliwego oprogramowania, lub wirusów, naruszyć funkcje bezpieczeństwa urządzenia i sprawić, że aplikacja “WrzućTam” nie będzie działała prawidłowo.
 
-The app does use third-party services that declare their Terms and Conditions.
+Aplikacja może używać zewnętrznych serwisów, które mają własne “Zasady i Warunki”.
 
-Link to Terms and Conditions of third-party service providers used by the app
+Linki do “Zasad i Warunków” zewnętrznych serwisów wykorzystywanych przez aplikacje:
 
 *   [Google Play Services](https://policies.google.com/terms)
 *   [Expo](https://expo.io/terms)
 
-You should be aware that there are certain things that Weronika Jankowska will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Weronika Jankowska cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+Użytkownik powinien być świadomy, że twórcy nie ponoszą odpowiedzialności za wszystkie dostępy i funkcje wymagane przez aplikacje. Niektóre funkcje są niezbędne dla aplikacji, takie jak połączenie z internetem. Połączenie z internetem może być uzyskane za pomocą połączenia WiFi lub z wykorzystaniem sieci komórkowej, twórcy nie biorą odpowiedzialności za nieprawidłowe działanie aplikacji, w przypadku kiedy użytkownik nie posiada dostępu do sieci WiFi lub nie ma aktywnego pakietu sieci komórkowej.
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+W przypadku korzystania z aplikacji za pomocą sieci WiFi, użytkownik powinien pamiętać, że obowiązują go warunki umowy z operatorem sieci. Operator sieci może zostać obciążony kosztami transmisji danych podczas korzystania z aplikacji lub opłatami ze stron zewnętrznych. Użytkownik podczas korzystania z aplikacji akceptuje wszelkie możliwe opłaty, w tym opłatę za transmisję danych w roamingu, w przypadku korzystania z aplikacji poza krajem zamieszkania. Jeśli użytkownik nie jest osobą regulującą rachunki za korzystanie z urządzenia, zakładamy, że otrzymał zgodę od płatnika.
 
-Along the same lines, Weronika Jankowska cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Weronika Jankowska cannot accept responsibility.
+Twórcy nie biorą odpowiedzialności za sposób w jaki użytkownik korzysta z aplikacji. Użytkownik powinien zadbać o to, żeby urządzenie było naładowane - jeśli urządzenie się rozładuje, nie będzie można skorzystać z aplikacji, twórcy nie ponoszą za to odpowiedzialności.
 
-With respect to Weronika Jankowska’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Weronika Jankowska accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+Twórcy aplikacji dokładają wszelkich starań, aby aplikacja była aktualna i działała poprawnie, jednak należy pamiętać, że polegamy na osobach trzecich, przekazujących nam informacje, aby udostępniać je użytkownikom. Twórcy nie ponoszą odpowiedzialności za jakiekolwiek straty, pośrednie lub bezpośrednie wynikające z całkowitego polegania na funkcjonowaniu aplikacji.
 
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Weronika Jankowska does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+Podczas korzystania z aplikacji użytkownik jest zobowiązany zwracać uwagę na otoczenie oraz ruch drogowy. Twórcy nie ponoszą odpowiedzialności za wszelkie nieodpowiedzialne zachowania użytkownika w ruchu ulicznym podczas korzystanie z aplikacji.
 
-**Changes to This Terms and Conditions**
+W pewnym momencie twórcy mogą wypuścić aktualizację aplikacji. Aplikacja obecnie jest dostępna dla systemu Android - wymagania dotyczące systemu (oraz wszelkich innych systemów na które zdecydujemy się rozszerzyć działalność aplikacji) mogą ulec zmianie, a użytkownik będzie zobowiązany pobrać aktualizacje aplikacji, jeśli nadal chce z niej korzystać. Twórcy aplikacji nie obiecują, że aktualizacje, będą odpowiednie dla wersji systemu użytkownika. Użytkownik zobowiązuje się do aktualizowania aplikacji. Twórcy “WrzućTam” zastrzegają sobie prawo do zaprzestania rozwoju aplikacji i zakończenia jej działania w dowolnym momencie, bez wcześniejszego powiadomienia użytkowników. Po zaprzestaniu działania aplikacji (a) wszelkie nadane jej prawa i licencje automatycznie wygasają, (b) użytkownik jest zobowiązany do zaprzestania korzystania z aplikacji oraz usunięcia jej ze swojego urządzenia.
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+**Wprowadzenie zmian w “Zasadach i Warunkach”**
 
-These terms and conditions are effective as of 2022-03-30
+Twórcy zastrzegają sobie prawo do aktualizowania “Zasad i Warunków”. Po stronie użytkownika leży obowiązek do regularnego ich sprawdzania. Użytkownik zostanie powiadomiony o wprowadzeniu zmian poprzez opublikowanie ich na tej stronie.
 
-**Contact Us**
+Niniejsze "Zasady i warunki" obowiązują od 30.03.2022.
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at kontakt.wrzuctam@gmail.com.
+**Kontakt**
+
+W razie jakichkolwiek pytań lub sugestii odnośnie “Zasad i Warunków” skontaktuj się z nami niezwłocznie pod adresem e-mail: kontakt.wrzuctam@gmail.com.
