@@ -1,63 +1,63 @@
-**Privacy Policy**
+**Polityka prywatności**
 
-Weronika Jankowska built the WrzućTam app as a Free app. This SERVICE is provided by Weronika Jankowska at no cost and is intended for use as is.
+Weronika Jankowska stworzyła aplikację “WrzućTam” jako darmową aplikację. Jest ona darmową usługą świadczoną przez Weronikę Jankowską.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Ta strona jest informacją o sposobie zbierania, przechowywania i ujawniania danych osobowych, jeśli użytkownik zdecyduje się skorzystać z aplikacji.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Jeśli użytkownik zdecyduje się używać aplikacji, zgadza się on na zbieranie oraz używanie informacji związanych z niniejszą polityką. Dane osobowe zbierane przez aplikację są używane do dostarczania i ulepszania aplikacji. Twórcy nie będą używać i udostępniać informacji użytkownika nikomu poza osobami opisanymi w niniejszej Polityce Prywatności.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at WrzućTam unless otherwise defined in this Privacy Policy.
+Zasady w niniejszej Polityce Prywatności mają takie samo znaczenie jak przedstawione w “Zasadach i Warunkach”, które są dostępne na tej stronie, chyba, że niniejsza Polityka Prywatności stanowi inaczej.
 
-**Information Collection and Use**
+**Zbieranie i używanie danych osobowych**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to e-mail address. The information that I request will be retained on your device and is not collected by me in any way.
+Dla lepszego doświadczenia korzystania z aplikacji, użytkownik może być poproszony o podanie pewnych danych osobowych, w tym adresu e-mail. Informacje używane przez aplikacje będą przechowywane na urządzeniu użytkownika i nie będą wykorzystywane w jakikolwiek sposób.
 
-The app does use third-party services that may collect information used to identify you.
+Aplikacja wykorzystuje zewnętrzne serwisy, które mogą zbierać informacje, wykorzystywane do zidentyfikowania użytkownika.
 
-Link to the privacy policy of third-party service providers used by the app
+Linki do Polityk Prywanotości zewnętrznych serwisów używanych przez aplikację:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Expo](https://expo.io/privacy)
 
-**Log Data**
+**Logowanie danych**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Za każdym razem gdy korzystanie przez użytkownika z aplikacji zakończy się błędem, zostaną zebrane informacje (za pomocą serwisów zewnętrznych) na urządzeniu użytkownika o nazwie “Log Data”. W pliku mogą znajdować się takie informacje jak adres IP urządzenia, nazwa urządzenia, wersja systemu operacyjnego, konfiguracja aplikacji podczas korzystania z niej, czas i data korzystania z aplikacji oraz inne statystyki.
 
-**Cookies**
+**Pliki cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Pliki cookies to pliki z niewielką ilością danych, używanych jako unikalne, anonimowe identyfikatory. Pliki są wysyłane do przeglądarki użytkownika z odwiedzanych przez niego stron internetowych i przechowywane w pamięci podręcznej urządzenia. 
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+“Wrzuć Tam” nie wykorzystuje plików cookies, jednak może wykorzystywać kod oraz biblioteki zewnętrzne, które używają plików cookies do zbierania informacji i ulepszania swoich usług. Użytkownik ma możliwość zaakceptowania lub odrzucenia tych plików cookies oraz uzyskania informacji kiedy plik cookie jest wysyłany na urządzenie użytkownika. Jeśli użytkownik zdecyduje się odrzucić pliki cookies, może nie być w stanie korzystać z niektórych części aplikacji.
 
-**Service Providers**
+**Usługodawcy**
 
-I may employ third-party companies and individuals due to the following reasons:
+Twórcy mogą zatrudnić firmy i osoby trzecie z następujących powodów:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   wprowadzenie ułatwień aplikacji;
+*   świadczenie usługi w imieniu twórców;
+*   świadczenie usług związanych z aplikacją;
+*   pomoc w analizie sposobu korzystania z aplikacji.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Twórcy informują użytkowników aplikacji, w niniejszej polityce prywatności, że te osoby trzecie mają dostęp do danych osobowych udostępnionych przez użytkowników, z powodu wykonywania zadań powierzonych im w imieniu twórców. Zostają jednak oni zobowiązani do nieujawniania, ani nie wykorzystywania informacji w żadnym innym celu.
 
-**Security**
+**Bezpieczeństwo**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Twórcy doceniają zaufanie użytkowników w dostarczaniu ich danych osobowych, dlatego starają się stosować komercyjnie akceptowalne środki ich ochrony. Użytkownik powinien jednak pamiętać, że żadna metoda transmisji internetowej oraz elektronicznego przechowywania nie jest w 100% bezpieczna i niezawodna, dlatego twórcy nie mogą zagwarantować jej absolutnego bezpieczeństwa.
 
-**Links to Other Sites**
+**Link do innych stron**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Aplikacja może zawierać linki do innych stron. Użytkownik po kliknięciu w taki link zostaje przekierowany do tej strony. Witryny zewnętrzne nie są obsługiwane przez twórców “WrzućTam”. Użytkownikowi zaleca się zapoznanie z polityką prywatności tych stron. Twórcy nie mają żadnej kontroli nad treścią, polityką prywatności ani praktykami witryn lub usług stron trzecich i nie ponoszą odpowiedzialności za te treści.
 
-**Children’s Privacy**
+**Prywatność dzieci**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+Aplikacja “WrzućTam” nie jest kierowana do dzieci poniżej 13 roku życia. Twórcy nie zbierają świadomie danych osobowych od dzieci poniżej 13 roku życia. W przypadku odkrycia przez twórców, że dziecko poniżej 13 roku życia udostępniło swoje dane osobowe, zostają one natychmiast usunięte z serwisów. Jeśli rodzice lub opiekunowie są świadomi, że ich dziecko udostępniło swoje dane osobowe, proszeni są o niezwłoczny kontakt, aby administratorzy aplikacji mogli wykonać niezbędne czynności.
 
-**Changes to This Privacy Policy**
+**Wprowadzanie zmian w "Polityce Prywatności"**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Twórcy zastrzegają sobie prawo do aktualizowania “Polityki Prywatności”. Po stronie użytkownika leży obowiązek do regularnego ich sprawdzania. Użytkownik zostanie powiadomiony o wprowadzeniu zmian poprzez opublikowanie ich na tej stronie.
 
-This policy is effective as of 2022-03-30
+Niniejsza polityka opowiązuje od 30.03.2022.
 
-**Contact Us**
+**Kontakt**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kontakt.wrzuctam@gmail.com.
+W razie jakichkolwiek pytań lub sugestii odnośnie “Polityki Prywatności” skontaktuj się z nami niezwłocznie pod adresem e-mail: kontakt.wrzuctam@gmail.com.
