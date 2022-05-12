@@ -10,7 +10,7 @@ Zasady w niniejszej Polityce Prywatności mają takie samo znaczenie jak przedst
 
 **Zbieranie i używanie danych osobowych**
 
-Dla lepszego doświadczenia korzystania z aplikacji, użytkownik może być poproszony o podanie pewnych danych osobowych, w tym adresu e-mail. Informacje używane przez aplikacje będą przechowywane na urządzeniu użytkownika i nie będą wykorzystywane w jakikolwiek sposób.
+Dla lepszego doświadczenia korzystania z aplikacji, użytkownik może być poproszony o podanie pewnych danych osobowych, w tym adresu e-mail, imienia oraz zdjęcia profilowego. Informacje używane przez aplikacje będą przechowywane na urządzeniu użytkownika i nie będą wykorzystywane w jakikolwiek sposób.
 
 Aplikacja wykorzystuje zewnętrzne serwisy, które mogą zbierać informacje, wykorzystywane do zidentyfikowania użytkownika.
 
